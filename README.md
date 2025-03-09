@@ -1,5 +1,4 @@
 # Sonic Pi
-Sonic Pi Files - written by 8v01d
 
 | Code File on GitHub | YouTube Video Link |
 | :---: | ------------- |
